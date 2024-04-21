@@ -1,34 +1,53 @@
 # Website-Personal-Friska-Adelia
 Tugas Modul Praktik
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Profil berbagai Perpustakaan</title>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" type="text/css" href="css/Style.css">
+    <title>Tugas Modul Praktik</title>
 </head>
-<body style="background-color: grey;
-    color: black; 
-    font-family: monotype corsiva;
-    margin-left: 70px;
-    margin-right: 70px
-    margin-top: 70px;">
-    <h1>Tugas Modul 1 No. 1 Pemrograman Web-Praktk</h1>
-    <p style="color:white (25, 25, 29); background-color: rgb(32, 34, 32);" ></p>
-    <p>Nama : Friska Adelia</p>
-    <p>NIM : 210709015</p>
-    <br/>
-    <br/>
-    <p>Disini saya akan menampilkan beberapa perpustakaan, sebagai berikut:</p>
-    <p><b>1. Perpustakaan Universitas Indonesia</b></p>
-    <div>
-        <img src="gambar perpustakaan indonesia.jpg" alt="">
-    <div>
-        Tugas Perpustakaan Indonesia adalah menjadi pusat sumber belajar,sumber daya informasi dan pengetahuan. Perpustakaan UI memiliki sekitar 1,5 juta koleksi yang disimpan di Perpustakaan UI dan beberapa fakultas.
-    </div>
- <p>&emsp;Berikut tautan:<a href="https://ui.ac.id/fasilitas/perpustakaan/">Perpustakaan Universitas Indonesia</a></p>
- <p><b>2. Perpustakaan Universitas Sriwijaya</b></p>
- <div>
-        <img src="gambar perpustakaan sriwijaya.jpg" alt="">
-        <div>
-        Perpustakaan Universitas Sriwijaya berasal dari perpustakaan kecil kepunyaan Sekolah Tinggi Ilmu Ekonomi Syakyakirti yang didirikan tahun 1956</p>
- <p>&emsp;Berikut tautan:<a href="https://digilib.unsri.ac.id/">Perpustakaan Universitas Sriwijaya</a></p>
- </body>
+<body>
+
+<div id="container">
+<div class="header"><img src="images/logo.png" width="100" height="100"><h1>Perpustakaan</h1>
+</div>
+
+<div class="main">
+<div class="left">
+<h3 align="center">MENU</h3>
+<ul>
+<li><a href="http://localhost/perpus/login.php">Login</a></li>
+<li><a href="#">Home</a></li>
+<li><a href="#">Daftar Buku</a></li>
+</ul>
+</div>
+
+<div class="middle">
+<h3 align="center">Profil Perpustakaan</h3>
+<div align="center">
+<img src="gambar perpustakaan indonesia.jpg" alt="">
+</div>
+<p><a href="#">Baca Selengkapnya >></a></p>
+</div>
+
+<div class="right">
+<h3 align="center">BUKU TERPOPULER</h3>
+<ul>
+<li><a href="#">Web Design</a></li>
+<li><a href="#">Pemrograman</a></li>
+<li><a href="#">Database</a></li>
+</ul>
+</div>
+</div>
+</div>
+
+<div class="footer"><p align="center">Copyright © 2018 - Belajar CSS Responsive</a></p>
+</div>
+</div>
+</body>
+</html>
+   
+
