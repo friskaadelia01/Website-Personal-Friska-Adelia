@@ -1,5 +1,7 @@
 # Website-Personal-Friska-Adelia
 Tugas Modul Praktik
+<Html>
+	<Head>
 <title>Website-Perpustakaan-Friska Adelia</title>
 <style type="text/css">body{background-color:whitesmoke}</style>
 <body>
