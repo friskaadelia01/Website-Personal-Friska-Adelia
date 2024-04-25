@@ -1,25 +1,10 @@
 # Website-Personal-Friska-Adelia
 Tugas Modul Praktik
-<Html>
-	<Head>
+
 <title>Website-Perpustakaan-Friska Adelia</title>
 <style type="text/css">body{background-color:whitesmoke}</style>
 <body>
-<script>
-            alert("SELAMAT DATANG DI WEBSITE PERPUSTAKAAN");
-            function saya Hello(){
-                alert("Hello Winners!");
-            }
-        </script>
-<script>
-        console. log ( "Hallo World") ;
-			</script>
-<script>
-        document.write("<h1>Hello World!</h1>");
-			</script>
-<style>.mainmenubtn{background-color:peru;color:#99855d;border:none;cursor:pointer;padding:20px;margin-top:20px}.mainmenubtn:hover{background-color:#fff}.dropdown{position:relative;display:inline-block}.dropdown-child{display:none;background-color:#fff;min-width:200px}.dropdown-child a{color:maroon;padding:20px;text-decoration:none;display:block}.dropdown:hover .dropdown-child{display:block}</style>
-<link rel="dns-prefetch" href="//www.suarasurabaya.net"></head>
-<div class="dropdown">
+
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
 <div class="dropdown-child">
 <a href="index.html">Homepage</a>
