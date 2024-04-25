@@ -1,53 +1,45 @@
 # Website-Personal-Friska-Adelia
 Tugas Modul Praktik
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
-    <link rel="stylesheet" type="text/css" href="css/Style.css">
-    <title>Tugas Modul Praktik</title>
-</head>
-<body>
+<h2 align="center">Tabel Koleksi Buku</h2>  
+    <table border="1">
+        <tr>
+            <td style="text-align:center"> <b> Judul </b> </td>
+            <td style="text-align:center"> <b> No. Panggil </b> </td>
+            <td style="text-align:center"> <b> Pengarang </b> </td>
+            <td style="text-align:center"> <b> Subjek </b> </td>
+            <td style="text-align:center"> <b> Nama Penerbit </b> </td>
+            <td style="text-align:center"> <b> Tahun Terbit </b> </td>
+        </tr>
 
-<div id="container">
-<div class="header"><img src="images/logo.png" width="100" height="100"><h1>Perpustakaan</h1>
-</div>
 
-<div class="main">
-<div class="left">
-<h3 align="center">MENU</h3>
-<ul>
-<li><a href="http://localhost/perpus/login.php">Login</a></li>
-<li><a href="#">Home</a></li>
-<li><a href="#">Daftar Buku</a></li>
-</ul>
-</div>
+        <tr>
 
-<div class="middle">
-<h3 align="center">Profil Perpustakaan</h3>
-<div align="center">
-<img src="gambar perpustakaan indonesia.jpg" alt="">
-</div>
-<p><a href="#">Baca Selengkapnya >></a></p>
-</div>
+        </tr> 
+                <td> Pengantar Ilmu Perpustakaan</td>
+                <td> 020 Sul p</td>
+                <td> Sulistyo, Basuki</td>
+                <td> LIBRARY SCIENCE</td>
+                <td> Gramedia Pustaka Utama</td>
+                <td> 1991</td>
+        </tr>
+    
+                <td> Analisis isi : pengantar metodologi untuk penenlitian ilmu komunikasi dan ilmu-ilmu sosial lainnya</td>
+                <td> 300.72 Eri a</td>
+                <td> Eriyanto</td>
+                <td> SOCIOLOGICAL SCIENCE-RESEARCH METHODOLOGY</td>
+                <td> Kencana</td>
+                <td> 2011</td>
+        </tr>
+    
+                <td> Antologi kepustakawanan Indonesia</td>
+                <td> 020.920 2 Sud a</td>
+                <td> Sudarsono, Blasius dan editor Santoso Joko</td>
+                <td> LIBRARIAN-PROFESSIONAL ETHICS-MISCELLAMY</td>
+                <td> Ikatan Pustakawan Indonesia</td>
+                <td> 2006</td>
 
-<div class="right">
-<h3 align="center">BUKU TERPOPULER</h3>
-<ul>
-<li><a href="#">Web Design</a></li>
-<li><a href="#">Pemrograman</a></li>
-<li><a href="#">Database</a></li>
-</ul>
-</div>
-</div>
-</div>
 
-<div class="footer"><p align="center">Copyright © 2018 - Belajar CSS Responsive</a></p>
-</div>
-</div>
-</body>
-</html>
+
+
    
 
