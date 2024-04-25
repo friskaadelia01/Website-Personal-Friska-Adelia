@@ -2,8 +2,6 @@
 Tugas Modul Praktik
 
 <title>Website-Perpustakaan-Friska Adelia</title>
-<style type="text/css">body{background-color:whitesmoke}</style>
-<body>
 
 <button class="mainmenubtn">TUGAS MODUL PRAKTIK</button>
 <div class="dropdown-child">
